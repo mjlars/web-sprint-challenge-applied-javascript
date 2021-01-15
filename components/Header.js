@@ -11,7 +11,7 @@
 // Use your function to create a header
 // and append it to the DOM inside the div.header-container
 const newHeader = document.querySelector('.header-container');
-console.log(newHeader);
+// console.log(newHeader);
 
 function Header() {
 
